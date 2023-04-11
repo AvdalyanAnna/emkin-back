@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Yahoo",
+        "domain_name": "yahoo.com",
+        "target_url": "https://mail.yahoo.com/",
+        "icon_name": "yahoo"
+    },
+    {
+        "title": "Gmail",
+        "domain_name": "gmail.com",
+        "target_url": "https://mail.google.com/",
+        "icon_name": "gmail"
+    }
+]
